@@ -28,6 +28,8 @@
   * Apuja:
     * http://www.w3schools.com/css/css3_transitions.asp
     * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
+    * https://www.kirupa.com/html5/setting_css_styles_using_javascript.htm
+    * http://xahlee.info/js/js_fadeout_css_transition.html
 
 ## Palautus
   * Tallena tämä kansio kotihakemistoosi ja palauta Tuubiin linkki
