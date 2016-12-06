@@ -59,8 +59,13 @@ textarea {
 
 body {
     width: 300%;
+    display: flex;
+    position: relative;
+    left: -100%;
+    transition: left 0.7s;
     overflow-x: hidden;
     background-color: yellow;
+    min-height: 100%;
 }
 
 nav,
@@ -73,6 +78,7 @@ aside {
 
 main {
     background: green;
+    min-height: 100%;
 }
 
 
